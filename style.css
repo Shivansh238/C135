@@ -1,0 +1,41 @@
+.copy_right_footer{
+    background-color:grey ;
+    color:white;
+    position: fixed;
+    width:100%;
+    line-height: 3;
+    text-align: center;
+    bottom: 0;
+}
+
+#Number_of_Objects,#Status,#Start{
+    font-size: 18px;
+}
+
+.heading{
+    font-size: 23px;
+width:100%;
+margin: 0px;
+color: white;
+}
+
+body{
+    background-size: cover;
+}
+
+#object_name{
+    width:40%;
+}
+
+#object{
+    color:white;
+    font-size: 15;
+}
+
+.div{
+    width:100%;
+}
+
+p{
+    color: navy;
+}
